@@ -1,5 +1,5 @@
 # The TypeScript compiler converts index.ts and iframe.ts to index.js and iframe.js
-rm index.js
+  rm index.js
 rm iframe.js
 
 tsc
